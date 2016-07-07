@@ -1,17 +1,20 @@
 <?php
 /**
  * @name Advertisers
- * @desc 
- * @version v0
+ * @desc Manager your advertisers
+ * @version v0.1
  * @author @xopherdeep
  * @mini flag
+ * @icon test.png
  * @see radius
  * @link advertise
  * @todo
- * @alpha
+ * @alpha true
+ * @release alpha
  */
-
   class xAdvertise extends Xengine {
-
+    function index(){
+    
+    }
   }
 ?>
