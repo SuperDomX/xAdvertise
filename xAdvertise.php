@@ -6,7 +6,7 @@
  * @author  @xopherdeep
  * @mini    bar-chart-o 
  * @icon    test.png
- * @see     radius
+ * @see     clicks
  * @link    advertise
  * @todo
  * @alpha   true
