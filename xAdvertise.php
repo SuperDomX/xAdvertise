@@ -1,6 +1,6 @@
 <?php
 /**
- * @name    Ads
+ * @name    Advertisers
  * @desc    Manage your advertisements
  * @version v0.1
  * @author  @xopherdeep
@@ -14,6 +14,7 @@
  */
   class xAdvertise extends Xengine {
     function index(){
+
     }
   }
 ?>
